@@ -1,2 +1,3 @@
 # SK_Learn_Book_Notes
-Hands-On ML Notes
+
+My notes on the Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (p. 213). O'Reilly Media. Kindle Edition. book.
